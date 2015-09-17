@@ -1,0 +1,7 @@
+alias orange='/home/harry/Scripts/orange_is_the_new_black.sh'
+alias untargz='tar -zxvf'
+alias lsltr='ls -ltr'
+alias ll='ls -l'
+alias mount_os='sudo mount -t "ntfs" -o "ro,uhelper=udisks2,nodev,nosuid,uid=1000,gid=1000,dmask=0077,fmask=0177" "/dev/sda4" "/media/OS"'
+alias RASBPI='ssh 10.0.0.25'
+alias umount_passport='sudo umount /media/harry/10a288ac-c985-4b8b-b07e-aee63d0e5ade; sudo umount /media/harry/FAT32'
